@@ -3,7 +3,8 @@ layout: empty
 title: "Witness Innovation in Motion"
 ---
 
-<div style="max-width: 700px; margin: 0 auto; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
+<div style="max-width: 700px; margin: 0 auto; padding: 20px; background-color: #FFF3E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
+
 
 # <img src="images/nova-logo.png" alt="NOVA Logo" width="60" style="vertical-align: middle; margin-right:10px;" /> Witness Innovation in Motion  
 <span style="font-size: 1.2em; font-style: italic; color: #666;">Our symbol of speed, innovation, and precision</span>
