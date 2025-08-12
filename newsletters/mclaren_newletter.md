@@ -1,4 +1,5 @@
 ---
+layout: empty
 title: "Innovation Showcase: The Game-Changing ‘Mermaid Tails’"
 ---
 
