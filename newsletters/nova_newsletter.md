@@ -3,7 +3,17 @@ layout: empty
 title: "Innovation Showcase: The Game-Changing ‘Mermaid Tails’"
 ---
 
-<div style="background-color: #2c2c2c; padding: 20px; border-radius: 8px; color: #f0f0f0; max-width: 700px; margin: 20px auto;">
+<div style="
+  background-color: white;            
+  padding: 20px;
+  border-radius: 8px;
+  color: #2c2c2c;                   
+  max-width: 700px;
+  margin: 20px auto;
+  border: 1px solid #888;           
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+">
+
 
 <h1><img src="images/mclaren.svg" alt="McLaren Logo" width="60" style="vertical-align: middle; margin-right:10px;" /> Innovation Showcase: The Game-Changing ‘Mermaid Tails’</h1>
 
