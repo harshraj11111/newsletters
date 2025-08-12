@@ -6,7 +6,7 @@ title: "Innovation Showcase: The Game-Changing ‘Mermaid Tails’"
   <div style="background-color: #2c2c2c; padding: 20px; border-radius: 8px; color: #f0f0f0; max-width: 700px; margin: 0 auto;">
 
 
-<h1><img src="images/mclaren.svg" alt="McLaren Logo" width="60" style="vertical-align: middle; margin-right:10px;" /> Innovation Showcase: The Game-Changing ‘Mermaid Tails’</h1>
+<h2><img src="images/mclaren.svg" alt="McLaren Logo" width="60" style="vertical-align: middle; margin-right:10px;" /> Innovation Showcase: The Game-Changing ‘Mermaid Tails’</h2>
 
 <span style="font-size: 1.2em; font-style: italic; color: #ccc;">Revolutionizing Aerodynamics for the 2025 F1 Season</span>
 
