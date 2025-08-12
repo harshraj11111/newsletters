@@ -1,3 +1,8 @@
+---
+layout: empty
+title: "Witness Innovation in Motion"
+---
+
 # <img src="images/nova-logo.png" alt="NOVA Logo" width="60" style="vertical-align: middle; margin-right:10px;" /> Witness Innovation in Motion  
 <span style="font-size: 1.2em; font-style: italic; color: #666;">Our symbol of speed, innovation, and precision</span>
 
