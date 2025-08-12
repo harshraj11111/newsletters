@@ -5,15 +5,17 @@ title: "Witness Innovation in Motion"
 
 <div style="max-width: 700px; margin: 0 auto; padding: 20px; background-color: #FFF3E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
 
-
-# <img src="images/nova-logo.png" alt="NOVA Logo" width="60" style="vertical-align: middle; margin-right:10px;" /> Witness Innovation in Motion  
+<h1>
+  <img src="images/nova-logo.png" alt="NOVA Logo" width="60" style="vertical-align: middle; margin-right:10px;" />
+  Witness Innovation in Motion
+</h1>
 <span style="font-size: 1.2em; font-style: italic; color: #666;">Our symbol of speed, innovation, and precision</span>
 
 <p style="margin-top: 1em; margin-bottom: 1.5em; line-height: 1.5;">
 At NOVA, our vision drives us to be the pinnacle of speed, innovation, and precision in motorsport. Recently, a select team attended McLaren event showcasing the groundbreaking mermaid tails aerodynamic update on McLaren’s 2025 car — reflecting our core values: excellence, creativity, teamwork, integrity, and sustainability.
 </p>
 
-## Excellence & Precision
+<h2>Excellence & Precision</h2>
 
 <img src="images/internal-car.png" alt="Internal Car Shot" width="280" style="float: left; margin-right: 20px; margin-bottom: 15px;" />
 
@@ -27,7 +29,7 @@ Engage with the innovation. Imagine how precision engineering drives us to new f
 
 <div style="clear: both;"></div>
 
-## Innovation & Creativity
+<h2>Innovation & Creativity</h2>
 
 <img src="images/external-car.png" alt="External Historic Racing Car" width="600" style="display: block; margin: 20px auto 1.5em auto;" />
 
@@ -35,9 +37,9 @@ Engage with the innovation. Imagine how precision engineering drives us to new f
 The <strong>mermaid tails</strong> embody the bold creativity essential to pushing boundaries. Our team gained fresh inspiration from sessions with McLaren engineers.
 </p>
 
-## Teamwork & Respect
+<h2>Teamwork & Respect</h2>
 
-<img src="images/team_nova.jpeg" alt="External Historic Racing Car" width="600" style="display: block; margin: 20px auto 1.5em auto;" />
+<img src="images/team_nova.jpeg" alt="Team NOVA" width="600" style="display: block; margin: 20px auto 1.5em auto;" />
 
 <p style="line-height: 1;">
 The event united diverse talents and industry leaders, reinforcing NOVA’s belief in collaboration, integrity, and sustainable responsibility.
