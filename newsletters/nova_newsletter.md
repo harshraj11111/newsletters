@@ -3,6 +3,8 @@ layout: empty
 title: "Witness Innovation in Motion"
 ---
 
+<div style="max-width: 700px; margin: 0 auto; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
+
 # <img src="images/nova-logo.png" alt="NOVA Logo" width="60" style="vertical-align: middle; margin-right:10px;" /> Witness Innovation in Motion  
 <span style="font-size: 1.2em; font-style: italic; color: #666;">Our symbol of speed, innovation, and precision</span>
 
@@ -44,10 +46,10 @@ The event united diverse talents and industry leaders, reinforcing NOVA’s beli
 This occasion reinforced NOVA’s dedication to pushing limits on and off the track — driving continuous innovation.
 </p>
 
-
 <hr style="border: 0.5px solid black; margin-top: 5em; margin-bottom: 1em;" />
-
 
 <p style="font-style: italic; font-weight: bold; color: #666; margin-top: 0;">
 Prepared by NOVA Communications Team
 </p>
+
+</div>
