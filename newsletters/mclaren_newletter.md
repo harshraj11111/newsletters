@@ -37,7 +37,7 @@ title: "Innovation Showcase: The Game-Changing ‘Mermaid Tails’"
 
 <p style="line-height: 1.5;">Gain insider insights from McLaren’s chief aerodynamicists and engineering team as they walk through the technical details and performance impact of the mermaid tails. The event will feature detailed presentations, interactive Q&A sessions, and exclusive behind-the-scenes content.</p>
 
-<h2>Join Us</h2>
+<h2>Come join us</h2>
 
 <p style="line-height: 1.5;">Don’t miss the opportunity to learn about the innovations shaping F1's future and how McLaren plans to maintain its competitive edge with cutting-edge technology designed for speed, precision, and sustainability.</p>
 
