@@ -3,7 +3,7 @@ layout: empty
 title: "Witness Innovation in Motion"
 ---
 
-<div style="max-width: 700px; margin: 0 auto; padding: 20px; background-color: #FFF3E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
+<div style="max-width: 790px; margin: 0 auto; padding: 20px; background-color: #FFF3E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
 
 <h1>
   <img src="images/nova-logo.png" alt="NOVA Logo" width="60" style="vertical-align: middle; margin-right:10px;" />
@@ -39,7 +39,7 @@ The <strong>mermaid tails</strong> embody the bold creativity essential to pushi
 
 <h2>Teamwork & Respect</h2>
 
-<img src="images/team_nova.jpeg" alt="Team NOVA" width="600" style="display: block; margin: 20px auto 1.5em auto;" />
+<img src="images/team_nova.jpeg" alt="Team NOVA" width="690" style="display: block; margin: 20px auto 1.5em auto;" />
 
 <p style="line-height: 1;">
 The event united diverse talents and industry leaders, reinforcing NOVA’s belief in collaboration, integrity, and sustainable responsibility.
