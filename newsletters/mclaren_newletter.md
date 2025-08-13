@@ -3,8 +3,15 @@ layout: empty
 title: "Innovation Showcase: The Game-Changing ‘Mermaid Tails’"
 ---
 
-  <div style="background-color: #2c2c2c; padding: 20px; border-radius: 8px; color: #f0f0f0; max-width: 780px; margin: 0 auto;">
-
+<div style="
+  background-color: #3a3a3a;
+  padding: 20px;
+  border-radius: 8px;
+  color: #f0f0f0;
+  max-width: 700px;
+  margin: 40px auto;
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+">
 
 <h2><img src="images/mclaren.svg" alt="McLaren Logo" width="60" style="vertical-align: middle; margin-right:10px;" /> Innovation Showcase: The Game-Changing ‘Mermaid Tails’</h2>
 
@@ -36,7 +43,7 @@ title: "Innovation Showcase: The Game-Changing ‘Mermaid Tails’"
 
 <p style="line-height: 1;">Stay tuned for event date and registration details, coming soon.</p>
 
-<hr style="border: 0.5px solid black; margin-top: 3em; margin-bottom: 1em;" />
+<hr style="border: 0.5px solid #555; margin-top: 3em; margin-bottom: 1em;" />
 
 <p style="font-style: italic; font-weight: bold; color: #ccc; margin-top: 0;">Officially hosted by McLaren Racing Communications</p>
 
