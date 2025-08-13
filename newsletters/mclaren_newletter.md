@@ -9,7 +9,6 @@ title: "Innovation Showcase: The Game-Changing ‘Mermaid Tails’"
   border-radius: 8px;
   color: #f0f0f0;
   max-width: 790px;
-  margin: 40px auto;
   box-shadow: 0 0 15px rgba(0,0,0,0.4);
 ">
 
